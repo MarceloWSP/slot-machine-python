@@ -41,7 +41,7 @@ Uma simulação interativa de máquina caça-níqueis jogada via linha de comand
     python main.py
 
 🎮 Exemplo de Uso
-Plaintext
+
 
 What would you like to deposit? $100
 Current balance is $100.
